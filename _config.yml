@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "LIU Yongwu / Personal Homepage"
+title                    : "LIU Yongwu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "LIU Yongwu"
 description              : &description "personal description"
