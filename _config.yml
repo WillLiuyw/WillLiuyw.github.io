@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "LIU Yongwu's Personal Homepage"
+title                    : "Will's Personal Homepage"
 title_separator          : "-"
 name                     : &name "LIU Yongwu"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "willliuyw/willliuyw.github.io"
 author:
   # Biographic information
   avatar           : "photo.png"
-  name             : "Will Liu"
+  name             : "LIU Yongwu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student"
   location         : "Hong Kong"
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
