@@ -22,7 +22,7 @@ repository               : "willliuyw/willliuyw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "photo.jpg"
   name             : "Will Liu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student"
